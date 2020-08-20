@@ -5,11 +5,12 @@ Güncel doviz kur bilgilerini ve bu kur bilgilerini kullanarak çeviri işlemler
 
 
 [Kullanılan döviz kuru API'ı](http://exchangeratesapi.io/)
+Host olarak [pythonanywhere] kullanıldı.(https://www.pythonanywhere.com/)
+
 
 ### Komutlar
 * /kurBilgi -> Anlık kur bilgilerini getirir
 * /ceviri -> İki para birimi arasında çeviri yapar
 * /bilgi -> Bot hakkında bilgi verir
-
 
 ![Screenshot of the bot](/ss.png)
