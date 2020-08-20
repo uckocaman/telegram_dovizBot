@@ -1,6 +1,8 @@
 # Telegram Döviz Botu
 
 Güncel doviz kur bilgilerini ve bu kur bilgilerini kullanarak çeviri işlemlerini yapan Telegram botu.
+### Bot'a telegram arama çubuğuna @dovizKurBot yazarak ulaşabilirsiniz
+
 
 [Kullanılan döviz kuru API'ı](http://exchangeratesapi.io/)
 
