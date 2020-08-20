@@ -5,6 +5,7 @@ Güncel doviz kur bilgilerini ve bu kur bilgilerini kullanarak çeviri işlemler
 
 
 [Kullanılan döviz kuru API'ı](http://exchangeratesapi.io/)
+\n
 Host olarak [pythonanywhere](https://www.pythonanywhere.com/) kullanıldı.
 
 
