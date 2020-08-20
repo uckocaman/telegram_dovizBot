@@ -4,7 +4,7 @@ Güncel doviz kur bilgilerini ve bu kur bilgilerini kullanarak çeviri işlemler
 ### Bot'a telegram arama çubuğuna @dovizKurBot yazarak ulaşabilirsiniz
 
 
-[Kullanılan döviz kuru API'ı](http://exchangeratesapi.io/)<br/>
+Kullanılan döviz kuru [API'ı](http://exchangeratesapi.io/)<br/>
 Host olarak [pythonanywhere](https://www.pythonanywhere.com/) kullanıldı.
 
 
