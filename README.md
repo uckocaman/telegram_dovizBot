@@ -16,4 +16,4 @@ Host olarak [pythonanywhere](https://www.pythonanywhere.com/) kullanıldı.
 * /bilgi -> Bot hakkında bilgi verir
 
 ![Screenshot of the bot](/ss.png)
-![Screenshot of the bot](/coin_ss.png)
+![Screenshot2 of the bot](/coin_ss.PNG)
