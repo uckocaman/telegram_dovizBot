@@ -6,7 +6,7 @@ Güncel Kripto Para bilgilerini, doviz kur bilgilerini veren ve bu kur bilgileri
 
 Kullanılan döviz kuru [API'ı](http://exchangeratesapi.io/)<br/>
 Kullanılan kripto para [API'ı](https://p.nomics.com/cryptocurrency-bitcoin-api)<br/>
-Host olarak [pythonanywhere](https://www.pythonanywhere.com/) kullanıldı.
+Host olarak [Microsoft Azure App Service](https://azure.microsoft.com/tr-tr/services/app-service/) kullanıldı.
 
 
 ### Komutlar
